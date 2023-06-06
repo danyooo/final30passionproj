@@ -1,2 +1,2 @@
-# final30passionproj
-culminating project
+#I am showcasing GITHUB to my team group
+about OUR culminating project
