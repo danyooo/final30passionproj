@@ -1,1 +1,0 @@
-to set the terminal $cd (copy path to PassionProject folder)
