@@ -16,6 +16,6 @@ public class CameraMovement : MonoBehaviour
     void Update()
     {
         // every frame, transform the position to the targets x ,keep the y the same, and set the z to -10.
-        transform.position = new Vector3(target.transform.position.x, transform.position.y, -10);
+        transform.position = new Vector3(target.transform.position.x, target.transform.position.y, -10);
     }
 }
