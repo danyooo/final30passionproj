@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 guid: c9eef790687b7f44ea7e4a18a5672dc5
+=======
+guid: b6bf5008d28868f4a902888d7366e6b8
+>>>>>>> Stashed changes
 =======
 guid: b6bf5008d28868f4a902888d7366e6b8
 >>>>>>> Stashed changes
@@ -111,6 +115,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -124,6 +129,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   spriteSheet:
