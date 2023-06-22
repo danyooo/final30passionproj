@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:PixelGame/Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-1 1.png.meta
-guid: d8920adea458a8b4a9a1a883830624ac
-========
-guid: 544f8190d11949340a495224fa59334a
->>>>>>>> Stashed changes:PixelGame/Assets/Art/dirtcracks.png.meta
+guid: 306b270a8ffa0114498ef41198219005
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,22 +106,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<<< Updated upstream:PixelGame/Assets/Tiny RPG Forest/Artwork/sprites/hero/walk/hero-walk-side/hero-walk-side-1 1.png.meta
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-========
->>>>>>>> Stashed changes:PixelGame/Assets/Art/dirtcracks.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites: []
